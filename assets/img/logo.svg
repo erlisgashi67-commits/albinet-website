@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124 28" width="124" height="28">
+  <!-- TODO: placeholder logo. Replace with the real Albinet logo. -->
+  <rect x="0" y="0" width="28" height="28" rx="7" fill="#0f2341"/>
+  <g fill="none" stroke="#ffffff" stroke-width="2.3" stroke-linecap="round">
+    <path d="M7 12a10 10 0 0 1 14 0"/>
+    <path d="M10.2 15.6a5.5 5.5 0 0 1 7.6 0"/>
+  </g>
+  <circle cx="14" cy="20" r="2.1" fill="#ea5a0c"/>
+  <text x="36" y="20.5" font-family="'Schibsted Grotesk',system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="-0.4" fill="#0e1a2b">albinet</text>
+</svg>
